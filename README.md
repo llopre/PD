@@ -1,4 +1,5 @@
-Autor: Lucas Lo Preiato
+Autor: Lucas Lo Preiato.
+
 Probado con GHC 8.0.1
 
 El archivo Main.hs contiene un programa escrito en haskell, le cual permite a través de varias opciones de menú gestionar 
